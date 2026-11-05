@@ -1,0 +1,41 @@
+# OS / Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local environment and third-party checkouts (see README: clone them yourself)
+mh370-open/.venv/
+mh370-open/external/
+
+# Raw downloads: re-download with the module scripts. Keep provenance notes and small hand-made tables.
+mh370-open/data/raw/**
+!mh370-open/data/raw/**/
+!mh370-open/data/raw/**/SOURCE.md
+!mh370-open/data/raw/**/*.csv
+!mh370-open/data/raw/**/*.json
+
+# Derived data: keep the six result layers and small tables; skip large caches.
+mh370-open/data/derived/**
+!mh370-open/data/derived/**/
+!mh370-open/data/derived/satcom_posterior.nc
+!mh370-open/data/derived/drift_loglik.nc
+!mh370-open/data/derived/search_pod.nc
+!mh370-open/data/derived/combined_posterior.nc
+!mh370-open/data/derived/combined_posterior_mix.nc
+!mh370-open/data/derived/combine_broad_components.nc
+!mh370-open/data/derived/**/*.csv
+!mh370-open/data/derived/**/*.json
+mh370-open/data/derived/satcom_smc/
+mh370-open/data/derived/acoustic_cache/
+mh370-open/data/derived/selftest_SYNTHETIC/
+mh370-open/data/research/
+
+# Video: renders, audio and third-party images stay local
+mh370-open/video/out/
+mh370-open/video/audio/
+mh370-open/video/assets/
+mh370-open/video/image.png
+mh370-open/video/ElevenLabs_*.mp3
+mh370-open/video/visuals/V00_colsto_ref.png
+mh370-open/video/script_before_v2.md
+mh370-open/video/youtube_upload/

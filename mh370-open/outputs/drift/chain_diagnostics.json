@@ -1,0 +1,26 @@
+{
+ "U1": {
+  "n_cells_with_data": 4942,
+  "min_pairs_near_arc": 331,
+  "median_pairs_near_arc": 1202.5,
+  "wa_cells": 30
+ },
+ "D1": {
+  "n_cells_with_data": 4898,
+  "min_pairs_near_arc": 162,
+  "median_pairs_near_arc": 550.0,
+  "wa_cells": 28
+ },
+ "F1": {
+  "n_cells_with_data": 4942,
+  "min_pairs_near_arc": 331,
+  "median_pairs_near_arc": 1202.5,
+  "wa_cells": 30
+ },
+ "U05": {
+  "n_cells_with_data": 19340,
+  "min_pairs_near_arc": 40,
+  "median_pairs_near_arc": 293.0,
+  "wa_cells": 96
+ }
+}

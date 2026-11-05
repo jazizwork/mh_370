@@ -1,0 +1,7 @@
+curtin_id; deployment_name; time_deployment_start; time_deployment_end; site_code; logger_id; logger_position ; frequency; set_success; is_primary; data_volume; lat; lon; water_depth; receiver_depth; start_first_wet_sample; start_last_wet_sample; first_wet_sample; last_wet_sample; system_gain_file; hydrophone_serial_number; hydrophone_sensitivity; calibration_noise_level; comments
+3315;Perth Canyon, WA 2013-2014;2013-11-28 17:00:00;2014-03-31 15:00:01;PAPCA;E09; ;6;OK;;43;-31.86721667;115.00113333;436;436; ; ; ; ;52946955.DAT;454027;-197.8;-90;
+3376;Perth Canyon, WA 2013-2014;2013-11-28 17:05:00;2014-11-04 04:35:01;PAPCA;E24; ;6;OK;true;113;-31.84216667;115.01373333;390;390;2013-11-28 17:05:00;2014-11-04 04:35:01;1;32637;529482AC.DAT;Massa TR1025C 500;-196.0;-90;
+3441;Kangaroo Island, SA 2016;2015-11-14 10:30:00;2016-11-09 02:15:01;PAKAI;E28; ;6;OK;true; ;-36.11765000;135.89345000;180;180;2015-11-17 16:45:00;2016-11-09 02:15:01;314;34623;56371B75.DAT;HTIU90 454034;-197.0;-90;
+3445;Perth Canyon, WA 2016;2015-12-17 11:20:01;2016-12-31 05:00:01;PAPCA;E41; ;6;OK;true;121;-31.87760000;115.01093333;435;435;2016-01-05 17:00:00;2016-12-31 05:00:01;4;34610;567229D1.DAT;Massa 499;-196.0;-90;
+3446;Portland, VIC 2016;2016-02-27 12:00:00;2017-02-22 03:00:01;PAPOR;E13; ;6;OK;true;120;-38.54581667;141.22115000;171;171; ; ; ; ;56737449.DAT;Massa Tr1025C 498;-196.0;-90;
+3447;Portland, VIC 2016;2016-02-27 12:00:00;2017-02-22 00:15:01;PAPOR;E18; ;6;OK;;115;-38.53345000;141.24040000;158;158; ; ; ; ;5673A4A6.DAT;HTIU90 454054;-197.4;-90;

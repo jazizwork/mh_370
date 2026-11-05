@@ -1,0 +1,7 @@
+Finding one. The satellite data points to the high thirties south, but on its own it can't settle the argument.
+
+We modelled the flight after the turn south the way a pilot could have set up the autopilot. Either one fixed setting, like a constant compass course, or a route through one of the published navigation waypoints in the area followed by a new course. We used the real winds from that night and let the data score every option.
+
+The best fits make the final turn south between about 2:32 and 2:40, then cruise at around 80 per cent of the speed of sound, a normal cruising speed. Most of them end up near 38 degrees south, with a 90 per cent range from about 36 and a half to 39 and a half. That's very close to the official analysis by Australia's defence scientists.
+
+Now the important part. The most popular independent hotspot, near 34.2 degrees south, is where the 2025 search went. Its route only fits if the plane was descending during a phone call attempt at 2:40. If the plane was flying level at that moment, the frequency recorded during the call is off by 39 hertz. That's a big miss, because these measurements are good to within a few hertz. If it was descending, the route fits as well as ours. Nothing in the data tells us which. So the satellite data alone can't choose between 38 and 34 degrees south. That comes down to assumptions nobody can check.

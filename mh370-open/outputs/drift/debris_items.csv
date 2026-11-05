@@ -1,0 +1,16 @@
+key,name,sir,cls,find_date,lat,lon,region,barnacles,find_day,arrive_from_day,arrive_to_day,note
+flaperon,Right flaperon,MOT1,Confirmed,2015-07-29,-20.91618,55.64915,Reunion,True,508.5,478.5,508.5,"Saint-Andre, Reunion; beach cleaners: absent at sunset 28 Jul (Godfrey 2021)"
+moz_daghatane,No.7 flap support fairing (676EB),MOT2,Almost certain,2015-12-27,-24.07806,35.4998,Mozambique,False,659.5,509.5,644.5,Liam Lotter
+sa_roy,Engine nose cowl 'Roy',MOT4,Almost certain,2015-12-23,-34.09377,22.14991,South Africa,True,655.5,625.5,655.5,"Klein Brak River, Mossel Bay; first photographed 23 Dec 2015 (official find 22 Mar 2016); many barnacles"
+moz_nostep,'NO STEP' horizontal stabiliser panel,MOT3,Almost certain,2016-02-27,-22.08857,35.51902,Mozambique,False,721.5,571.5,706.5,"Paluma sandbank, Vilankulo; Gibson"
+rodrigues,Door R1 stowage closet panel,MOT5,Almost certain,2016-03-30,-19.73871,63.47163,Rodrigues,True,753.5,723.5,753.5,"Var-Brule, Rodrigues; few barnacles"
+moz_chidenguele,Right engine fan cowling piece,MOT6,Almost certain,2016-04-24,-24.95802,34.19637,Mozambique,False,778.5,628.5,763.5,south of Chidenguele
+mus_flap,Left outboard flap trailing-edge section,MOT10,Confirmed,2016-05-10,-20.02338,57.70139,Mauritius,False,794.5,644.5,779.5,"Ilot Bernache, Mauritius"
+moz_macaneta,Left wing trailing-edge panel,MOT9,Highly likely,2016-05-22,-25.86302,32.74599,Mozambique,False,806.5,656.5,791.5,"Macaneta peninsula, Maputo Bay"
+mus_grisgris,No.1 flap support fairing tail cone,MOT8,Highly likely,2016-05-24,-20.52245,57.53762,Mauritius,False,808.5,658.5,793.5,"Gris-Gris beach, Souillac"
+mdg_nosyboraha,"4 items (IFE trim panel, trailing-edge panel, cabin panel, nose-gear door)","MOT11,15,16,18",Highly likely/Almost certain,2016-06-06,-16.78694,49.98528,Madagascar,False,821.5,671.5,806.5,"Riake & Antsiraka beaches, Nosy Boraha (Ste-Marie); Gibson; locals saw items ~1 month earlier"
+tza_pemba,Right outboard flap (inboard section),MOT19,Confirmed,2016-06-20,-5.05607,39.86809,Tanzania,True,835.5,805.5,835.5,"Kojani Island, Pemba; few barnacles"
+sa_kosi,Right aft wing-to-body fairing,MOT20,Highly likely,2016-06-21,-26.89381,32.88089,South Africa,False,836.5,686.5,821.5,"Kosi Bay mouth, KwaZulu-Natal"
+moz_lingalinga,Right vertical stabiliser panel,MOT22,Almost certain,2016-08-26,-23.73931,35.40077,Mozambique,False,902.5,752.5,887.5,Linga Linga
+sa_nautilus,Right aileron (inboard section),MOT26,Highly likely,2016-12-23,-34.22081,21.97875,South Africa,False,1021.5,871.5,1006.5,Nautilus Bay
+sa_mpame,No.7 flap support fairing (fixed fwd part),MOT27,Highly likely,2017-01-27,-32.09748,29.06285,South Africa,True,1056.5,1026.5,1056.5,"Mpame beach, Eastern Cape; few barnacles"

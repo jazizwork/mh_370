@@ -1,0 +1,7 @@
+We started with a clever trick for locating videos, and ended up somewhere much less glamorous. Rereading old data carefully. Testing every lead the same way. And keeping track of where people have already looked.
+
+It doesn't find M H three seventy. What it does is show where the remaining probability actually sits, with coordinates, and say honestly how little of it any single area holds.
+
+Everything we used, the code, the data sources and the full reports, is linked in the description. If you can show it's wrong, please do.
+
+Two hundred and thirty-nine people were on that plane. Their families still don't know where they are. That's the reason to keep checking.

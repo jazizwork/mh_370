@@ -1,0 +1,3 @@
+Some honest limits. This is an independent analysis, not an official one. How much to doubt the satellite model in the first place is a judgement call. We started at one in ten, and if you change that, the top two areas can swap places. We couldn't find a public fuel-burn model good enough to use. The 2025 to 2026 search footprint has never been published, so we reconstructed it from ship-tracking data. How thoroughly each past search covered its ground is partly our own estimate. And our check on the flaperon's drift only uses ocean currents up to mid-2015.
+
+Any of those could move the answer. If you have better data on any of them, it should go into the model.

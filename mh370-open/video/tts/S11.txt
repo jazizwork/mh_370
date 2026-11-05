@@ -1,0 +1,9 @@
+Finding three. None of the sound candidates holds up on open data.
+
+We downloaded 4.7 gigabytes of public underwater recordings from Australia's eye-moss network, covering that night and eight quiet control nights. We rewrote the file reader and checked it against the operator's own processed data. It matches to within three hundredths of a decibel, and it clearly picks up earthquakes thousands of kilometres away.
+
+The 2024 candidate arrives 11 to 17 minutes too late for an impact on the seventh arc. On the recorder we could check, the 2014 Curtin event looks like a whale call, a knock on the mooring, and then the sound of an earthquake. The Java event is real, but it's a natural earthquake of about magnitude 4.1, releasing roughly 20 times the energy of a 777 hitting the sea.
+
+One faint arrival at Cape Leeuwin, flagged by Los Alamos in 2014, does have timing that fits a crash near 41 degrees south. But nothing on any open sensor backs it up, so with public data it can't be tested either way.
+
+Across the whole arc, the recordings show nothing above what chance alone would produce.

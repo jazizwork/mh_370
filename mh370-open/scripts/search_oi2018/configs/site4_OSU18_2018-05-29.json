@@ -1,0 +1,66 @@
+{
+ "image": "data/raw/oi2018_search/figures_extracted/OSU18_p3_x40_499x521.png",
+ "crs": "EPSG:32747",
+ "search": 5,
+ "cross_arm": 2,
+ "crosses": [
+  [
+   99,
+   -27,
+   73,
+   175
+  ],
+  [
+   99,
+   -28,
+   73,
+   345
+  ],
+  [
+   100,
+   -28,
+   224,
+   345
+  ],
+  [
+   101,
+   -28,
+   375,
+   346
+  ]
+ ],
+ "hsv": [
+  70,
+  100,
+  20,
+  75,
+  165
+ ],
+ "close": 3,
+ "open": 3,
+ "keep_largest": 1,
+ "include_polys": [
+  [
+   [
+    82.1,
+    394.1
+   ],
+   [
+    191.4,
+    470.4
+   ],
+   [
+    421.2,
+    126.0
+   ],
+   [
+    309.2,
+    54.3
+   ]
+  ]
+ ],
+ "min_area_px": 100,
+ "eps_px": 0.7,
+ "out": "data/raw/oi2018_search/digitisation/site4_OSU18_2018-05-29_georef_polys.json",
+ "mode": "hsv"
+}

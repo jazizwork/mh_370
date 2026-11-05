@@ -1,0 +1,5 @@
+Earlier this month, a YouTuber called col-sto showed something unsettling. A faint propeller plane, droning in the background of a video, can be enough to work out where that video was filmed. As the plane passes, the pitch of its engine bends, from high to low. Match that bend against public flight-tracking data, and you can pin the camera down, sometimes to within a hundred metres.
+
+I wondered if that idea could help us find M H three seventy.
+
+The answer to that is no. However, it led me down a rabbit hole of trying to see what I could do, using only data that anyone can download. That rabbit hole turned into a full reanalysis of where the plane went, and that's what this video is about.

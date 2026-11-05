@@ -1,0 +1,23 @@
+# predictions vs PAKIM picks (s; 0 = inside predicted interval)
+prediction,t_lo,t_hi,F1_minus_pred_s,F2_minus_pred_s,F3onset_minus_pred_s,F3rise15_minus_pred_s,F3centroid_minus_pred_s,F3peak_minus_pred_s
+Carlsberg (HA01 01:34:40 - TDOA),01:32:42.0,01:32:43.6,12.9,20.9,18.1,55.4,98.7,109.1
+Curtin published 'Scott Reef',01:32:49.0,01:32:49.0,7.5,15.5,12.7,50.0,93.3,103.7
+"Java T, Anderson loc (c 1.50-1.46)",01:33:38.8,01:34:08.9,-42.3,-34.3,-37.0,0.0,13.4,23.8
+"Java T, Anderson loc +45 s XMIS-like delay",01:34:38.7,01:34:38.7,-102.2,-94.2,-96.9,-59.7,-16.3,-5.9
+"Java T, fork relocation (c 1.50-1.46)",01:33:51.3,01:34:21.7,-54.8,-46.8,-49.6,-12.3,0.6,11.0
+"Java T, fork relocation +45 s XMIS-like delay",01:34:51.3,01:34:51.3,-114.8,-106.8,-109.6,-72.3,-29.0,-18.6
+
+# chance-coincidence rates from PAKIM control nights (15.0 recorded hours)
+feature,rate_per_hour,rate_as_strong_per_hour,observed_strength_db,half_window_s,p_chance_any,p_chance_as_strong
+F1,110.5759,10.1617,26.0715,10,0.4590,0.0549
+F1,110.5759,10.1617,26.0715,15,0.6021,0.0812
+F1,110.5759,10.1617,26.0715,30,0.8416,0.1558
+F1,110.5759,10.1617,26.0715,60,0.9749,0.2873
+F2,96.4029,38.0397,15.7260,10,0.4147,0.1905
+F2,96.4029,38.0397,15.7260,15,0.5522,0.2717
+F2,96.4029,38.0397,15.7260,30,0.7995,0.4695
+F2,96.4029,38.0397,15.7260,60,0.9598,0.7186
+F3,3.5432,0.8691,24.4917,10,0.0195,0.0048
+F3,3.5432,0.8691,24.4917,15,0.0291,0.0072
+F3,3.5432,0.8691,24.4917,30,0.0573,0.0144
+F3,3.5432,0.8691,24.4917,60,0.1114,0.0286

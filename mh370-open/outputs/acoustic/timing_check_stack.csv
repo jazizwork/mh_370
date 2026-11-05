@@ -1,0 +1,3 @@
+site,n_events,stack_peak_lag_s,stack_peak_db,boot_lag_p05,boot_lag_p50,boot_lag_p95,n_snr_gt3,stack_snr3_peak_lag_s,median_onset_lag_snr3
+PAKIM,53,30.10,2.71,-25.30,30.20,87.90,21,30.10,-1.10
+PAPCA,11,-42.50,3.07,-42.50,-31.40,51.80,1,-8.10,-8.90

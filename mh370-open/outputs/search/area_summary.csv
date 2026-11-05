@@ -1,0 +1,24 @@
+campaign,area_km2_best,area_km2_geodesic,area_km2_low_geometry,area_km2_high_geometry,published
+ATSB_2014_17,120553.0,120552.0,118636.0,122654.0,"~120,000 (ATSB 2017: 'in excess of 120,000')"
+OI_2018,126626.0,126619.0,117013.0,135854.0,">112,000 (OI/Malaysia 29 May 2018); OI cumulative 2018-26 '>140,000'"
+OI_2025_26,12927.0,12927.0,6595.0,19657.0,"7,571 (AAIB 8 Mar 2026, post-contract only)"
+Bluefin21_2014,769.0,769.0,696.0,850.0,~860 (ATSB)
+ALL (union),255609.0,255608.0,241164.0,266708.0,"sum of published ~240,000 (120k+112k+7.6k+0.9k), before overlap"
+  ATSB_2014_17: ATSB Fig.73 area 'red',63143.0,63142.0,63075.0,63982.0,
+  ATSB_2014_17: ATSB Fig.73 area 'orange',16656.0,16658.0,16344.0,17052.0,
+  ATSB_2014_17: ATSB Fig.73 area 'yellow',11948.0,11949.0,11634.0,12334.0,
+  ATSB_2014_17: ATSB Fig.73 area 'purple',28772.0,28771.0,27673.0,30641.0,
+  ATSB_2014_17: GO Phoenix terrain gap near HPSA (CAPTION KMZ),55.0,55.0,90.0,30.0,
+  ATSB_2014_17: High Priority Search Area (never scanned per Iannello 2023),25.0,25.0,38.0,14.0,
+"  OI_2018: OI 2018 inter-site junction gaps (<3 km, closed)",233.0,233.0,233.0,233.0,
+"  OI_2018: ATSB / OI 2018 junction slivers (<3 km, uncertain)",457.0,456.0,457.0,457.0,
+  OI_2018: OI 2018 northern sweep 30 May-7 Jun (INFERRED),15247.0,15247.0,13021.0,18008.0,
+  OI_2018: OI 2018 Site 4 planned box (completion inferred),21591.0,21594.0,20930.0,22637.0,
+  OI_2018: OI 2018 Site1,39379.0,39375.0,34925.0,44534.0,
+  OI_2018: OI 2018 Site2,15025.0,15023.0,14707.0,15545.0,
+  OI_2018: OI 2018 Site3,34848.0,34848.0,33559.0,36479.0,
+  OI_2018: OI 2018 Site4_to_27May,18249.0,18249.0,17978.0,18959.0,
+  OI_2025_26: Feb 2025 infill of HPSA / GO Phoenix gap (uncertain),58.0,58.0,58.0,58.0,
+  OI_2025_26: OI 2025 pre-contract SW survey 11-24 Mar 2025 (ASSUMED),5297.0,5297.0,2786.0,8404.0,
+"  OI_2025_26: OI 2025-26 surveyed 7,571 km2 (ASSUMED footprint)",7572.0,7572.0,3809.0,11920.0,
+  ATSB interior data gaps (19 holes),9.6,9.6,,,"ATSB: 0.5% gaps (~600 km2, mostly <200 m)"

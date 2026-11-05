@@ -1,0 +1,15 @@
+So where does that leave the probability? Spread out. No single search-sized area holds more than about one chance in ten. But a clear pattern shows up.
+
+Almost all of the best remaining areas sit on the far side of the arc, the side the plane was heading towards, between about 40 and 130 kilometres beyond it. That's just outside the width the searches covered. If the plane carried on a little further than people assumed after its fuel ran out, it would be in ground nobody has looked at.
+
+Here are the top three, each about 7,500 square kilometres, roughly what one search season can cover.
+
+Area one is centred on thirty point four six degrees south, ninety-eight point four one east. It's a long strip 40 to 60 kilometres beyond the arc, right along the outer edge of the 2018 search. Under our default assumptions it comes out on top whenever the debris drift is included, whichever version of the satellite model we use, though small changes to the assumptions can swap the order of the top two. It holds about 8 and a half per cent of the remaining probability.
+
+Area two is centred on thirty-eight point seven five south, eighty-nine point zero two east, 90 to 130 kilometres beyond the arc, where a piloted glide after the fuel ran out would end. About 5 per cent.
+
+Area three is centred on thirty-two point three six south, ninety-six point eight nine east, 60 to 80 kilometres beyond the arc. About 4 per cent.
+
+If you set the debris drift aside and trust only the satellite data, the top pick changes. It becomes the stretch of arc just past the southern end of the 2014 to 2017 search, around thirty-nine point nine four south, eighty-four point eight two east.
+
+Two more results. Area one lies near the crash site proposed using whisper, but not on it. That's a coincidence of geography. Our analysis doesn't use whisper at all, and our criticisms of that method still stand. And the strip still left in Ocean Infinity's current contract lies on the near side of the arc. To end up there, the plane would have had to turn back after its final message, and in our model it gets almost no probability.

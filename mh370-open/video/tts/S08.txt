@@ -1,0 +1,9 @@
+Here's what's different about this analysis.
+
+One: we used only data that anyone can download for free. No government data requests and no special access. That covers the Inmarsat log released in 2014, Geoscience Australia's maps of exactly where the sonar searches went, Malaysia's official search updates, NOAA's ocean drifter records, ERA5, which is a global reconstruction of the weather on any past day, underwater recordings from eye-moss, Australia's ocean-monitoring network, and open seismometer networks.
+
+Two: we rebuilt every piece independently, and checked it against published numbers before trusting it. Our satellite model reproduces the Inmarsat team's own published worked example to within about one hertz, which is as precise as the measurements themselves.
+
+Three: instead of producing one more crash point, we combined independent layers. The satellite data. The debris drift. And, crucially, a map of every patch of seabed that has already been searched, and how thoroughly. We tested the sound recordings too, but nothing in them was solid enough to add. Then we asked a different question. Not "where is the most likely spot?", but "given where people have already looked, where is the probability that's left?"
+
+And four: every assumption that matters gets a stress test, including the possibility that our own model is wrong.

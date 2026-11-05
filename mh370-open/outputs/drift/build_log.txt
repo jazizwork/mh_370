@@ -1,0 +1,98 @@
+chain U1: 3450313 pairs, 2.7 s
+chain F1: 3450313 pairs, 15.3 s
+chain F1a10: 3450313 pairs, 15.0 s
+chain W3: 3450313 pairs, 15.3 s
+chain U1annual: 3450313 pairs, 0.9 s
+chain U05: 3450313 pairs, 1.1 s
+chain U1T7: 3435091 pairs, 1.0 s
+chain D1: 2276228 pairs, 0.9 s
+wrote mh370-open/data/derived/drift_loglik.nc
+                                 variant   peak   mean   sd    q16    q84   q025   q975  range_loglik
+                                  loglik -33.38 -32.72 2.02 -34.86 -30.76 -36.75 -28.88         20.12
+                          loglik_drogued -20.12 -20.25 0.19 -20.57 -20.19 -20.87 -20.13         44.99
+                      loglik_no_negative -33.62 -33.31 2.21 -35.67 -31.16 -37.83 -29.13         20.59
+                    loglik_flaperon_only -30.12 -30.69 4.84 -35.94 -25.77 -40.05 -21.45          2.18
+                           loglik_leeway -33.88 -33.82 2.01 -35.91 -31.97 -37.92 -29.87         24.68
+             loglik_flaperon_only_leeway -38.12 -36.20 3.82 -40.23 -32.35 -41.80 -27.65          6.28
+           loglik_flaperon_only_leeway10 -37.88 -35.76 3.66 -39.65 -32.11 -41.67 -27.89          6.48
+                       loglik_all_leeway -35.38 -34.83 1.44 -36.29 -33.52 -37.98 -32.27         54.04
+                         loglik_windage3 -33.62 -33.77 0.82 -34.63 -33.15 -35.81 -32.43         59.20
+                 loglik_first_per_region -33.62 -32.70 2.52 -35.37 -30.20 -37.76 -27.88          9.93
+                    loglik_first_arrival -33.62 -32.97 2.03 -35.13 -31.02 -37.07 -29.08         20.88
+                       loglik_windows_x2 -30.62 -31.18 1.89 -33.23 -29.38 -35.13 -27.80         16.94
+                  loglik_windows_godfrey -33.62 -33.39 2.04 -35.56 -31.48 -37.56 -29.40         21.61
+                        loglik_radius100 -33.38 -32.74 2.02 -34.88 -30.78 -36.78 -28.89         20.20
+                        loglik_radius250 -33.38 -32.73 2.03 -34.88 -30.76 -36.79 -28.87         19.91
+                       loglik_wa_lambda5 -33.62 -33.13 2.16 -35.44 -31.04 -37.58 -29.05         20.46
+                      loglik_wa_lambda60 -32.38 -32.12 1.80 -33.96 -30.37 -35.74 -28.61         19.44
+                      loglik_wa_12months -33.38 -32.76 2.03 -34.92 -30.79 -36.83 -28.89         20.14
+                loglik_roy_official_date -33.62 -33.05 2.05 -35.25 -31.08 -37.23 -29.11         20.77
+                           loglik_no_roy -33.62 -33.31 2.10 -35.53 -31.32 -37.59 -29.23         20.24
+                loglik_leeway_windows_x2 -32.12 -32.22 1.98 -34.27 -30.31 -36.20 -28.55         20.59
+             loglik_leeway_first_arrival -33.88 -34.03 2.00 -36.09 -32.18 -38.07 -30.06         25.34
+                    loglik_timescale_110 -31.88 -31.33 1.98 -33.47 -29.42 -35.43 -27.74         16.49
+                    loglik_timescale_115 -32.12 -32.07 2.01 -34.16 -30.12 -36.09 -28.34         17.70
+                    loglik_timescale_125 -33.62 -33.22 1.98 -35.35 -31.36 -37.26 -29.36         22.25
+                     loglik_uncalibrated -29.38 -29.70 1.81 -31.69 -27.99 -33.53 -26.65         22.86
+              loglik_leeway_uncalibrated -30.62 -30.80 1.91 -32.88 -28.96 -34.74 -27.39         19.09
+       loglik_flaperon_only_uncalibrated -26.88 -27.86 4.56 -32.75 -23.04 -37.60 -20.62          3.80
+loglik_flaperon_only_leeway_uncalibrated -37.12 -35.33 3.98 -39.56 -31.21 -41.64 -26.88          5.90
+                           loglik_annual -30.12 -30.31 1.83 -32.32 -28.58 -33.93 -26.91         24.00
+                            loglik_bin05 -30.12 -30.22 1.71 -32.07 -28.59 -33.79 -27.19         25.74
+                               loglik_T7 -29.38 -29.81 1.90 -31.90 -27.99 -33.70 -26.53         22.61
+                 item:flaperon:undrogued -30.12 -30.69 4.84 -35.94 -25.77 -40.05 -21.45          2.18
+                    item:flaperon:leeway -38.12 -36.20 3.82 -40.23 -32.35 -41.80 -27.65          6.28
+            item:moz_daghatane:undrogued -27.88 -29.36 5.25 -35.22 -23.75 -40.03 -20.74          2.01
+               item:moz_daghatane:leeway -34.88 -33.69 4.63 -38.79 -28.80 -41.44 -24.40          3.89
+                   item:sa_roy:undrogued -27.38 -28.55 5.00 -34.00 -23.27 -39.19 -20.66          2.62
+                      item:sa_roy:leeway -33.88 -33.13 4.74 -38.41 -28.14 -41.32 -23.86          3.49
+               item:moz_nostep:undrogued -29.88 -30.97 5.48 -37.23 -25.05 -40.98 -21.05          1.16
+                  item:moz_nostep:leeway -35.38 -34.03 4.56 -39.01 -29.23 -41.52 -24.70          3.97
+                item:rodrigues:undrogued -38.12 -34.89 4.69 -39.88 -29.93 -41.75 -24.59          3.38
+                   item:rodrigues:leeway -35.62 -34.17 4.53 -39.09 -29.56 -41.58 -24.56          3.18
+          item:moz_chidenguele:undrogued -30.38 -31.25 5.43 -37.44 -25.43 -41.07 -21.23          1.06
+             item:moz_chidenguele:leeway -35.38 -34.06 4.49 -38.96 -29.35 -41.50 -24.86          4.19
+                 item:mus_flap:undrogued -37.88 -34.19 4.84 -39.42 -29.05 -41.65 -23.88          2.90
+                    item:mus_flap:leeway -35.62 -34.67 4.30 -39.33 -30.24 -41.63 -25.73          4.16
+             item:moz_macaneta:undrogued -30.62 -31.39 5.44 -37.58 -25.57 -41.12 -21.29          1.09
+                item:moz_macaneta:leeway -35.12 -34.05 4.48 -38.94 -29.37 -41.50 -24.89          4.22
+             item:mus_grisgris:undrogued -37.88 -34.06 4.87 -39.33 -28.88 -41.63 -23.74          2.82
+                item:mus_grisgris:leeway -35.62 -34.56 4.32 -39.27 -30.11 -41.62 -25.59          4.19
+           item:mdg_nosyboraha:undrogued -38.12 -34.90 4.79 -39.94 -29.87 -41.76 -24.08          2.83
+              item:mdg_nosyboraha:leeway -35.62 -34.55 4.58 -39.40 -30.02 -41.66 -24.16          2.78
+                item:tza_pemba:undrogued -38.88 -34.96 5.46 -40.33 -29.32 -41.84 -21.47          1.98
+                   item:tza_pemba:leeway -20.12 -31.96 6.84 -39.30 -22.53 -41.64 -20.36          1.65
+                  item:sa_kosi:undrogued -31.88 -31.57 5.44 -37.76 -25.75 -41.19 -21.37          1.16
+                     item:sa_kosi:leeway -35.12 -34.04 4.46 -38.92 -29.38 -41.49 -24.92          4.24
+           item:moz_lingalinga:undrogued -33.38 -32.25 5.41 -38.35 -26.47 -41.39 -21.67          1.39
+              item:moz_lingalinga:leeway -35.38 -34.08 4.44 -38.93 -29.47 -41.50 -25.00          4.14
+              item:sa_nautilus:undrogued -32.38 -31.94 5.44 -38.12 -26.11 -41.33 -21.53          1.30
+                 item:sa_nautilus:leeway -35.12 -33.82 4.52 -38.77 -29.11 -41.45 -24.63          4.00
+                 item:sa_mpame:undrogued -33.62 -32.39 5.39 -38.45 -26.61 -41.43 -21.78          1.50
+                    item:sa_mpame:leeway -34.12 -33.61 4.59 -38.65 -28.83 -41.42 -24.32          3.75
+{
+ "U1": {
+  "n_cells_with_data": 4942,
+  "min_pairs_near_arc": 331,
+  "median_pairs_near_arc": 1202.5,
+  "wa_cells": 30
+ },
+ "D1": {
+  "n_cells_with_data": 4898,
+  "min_pairs_near_arc": 162,
+  "median_pairs_near_arc": 550.0,
+  "wa_cells": 28
+ },
+ "F1": {
+  "n_cells_with_data": 4942,
+  "min_pairs_near_arc": 331,
+  "median_pairs_near_arc": 1202.5,
+  "wa_cells": 30
+ },
+ "U05": {
+  "n_cells_with_data": 19340,
+  "min_pairs_near_arc": 40,
+  "median_pairs_near_arc": 293.0,
+  "wa_cells": 96
+ }
+}

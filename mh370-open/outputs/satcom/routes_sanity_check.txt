@@ -1,0 +1,15 @@
+1. TWO(u2=1) vs CTT: max |dBTO| = 0.00e+00 us, max |dBFO| = 0.00e+00 Hz, max |dloglik| = 0.00e+00
+2. TWO(theta2=theta1, u2~U(0,1)) vs CTT: max |dBTO| = 0.019 us, max |dBFO| = 0.0001 Hz, max |dloglik| = 0.0759, max 00:19:29 position difference = 0.005 km
+3. WPT(BEDAX) direct-to leg, then LNAV continuing the same great circle, vs single-mode LNAV (theta = azimuth FMT->BEDAX); n = 400 prior draws, W reached by 100%:
+   snap distance at W: max 153 m; max cross-track of the direct-to leg from the FMT->W great circle: 378 m
+   00:19:29 position difference vs LNAV: median 0.78 km, max 1.06 km; |dloglik| for near-fitting paths (n=0): n/a; all draws: median 27.91
+3. WPT(ISBIX) direct-to leg, then LNAV continuing the same great circle, vs single-mode LNAV (theta = azimuth FMT->ISBIX); n = 400 prior draws, W reached by 100%:
+   snap distance at W: max 172 m; max cross-track of the direct-to leg from the FMT->W great circle: 709 m
+   00:19:29 position difference vs LNAV: median 1.16 km, max 1.95 km; |dloglik| for near-fitting paths (n=7): max 0.56; all draws: median 10.96
+3. WPT(RUNUT) direct-to leg, then LNAV continuing the same great circle, vs single-mode LNAV (theta = azimuth FMT->RUNUT); n = 400 prior draws, W reached by 100%:
+   snap distance at W: max 175 m; max cross-track of the direct-to leg from the FMT->W great circle: 1357 m
+   00:19:29 position difference vs LNAV: median 2.79 km, max 3.63 km; |dloglik| for near-fitting paths (n=17): max 2.60; all draws: median 9.63
+4. timing CTT : 0.80 s per 5000-particle likelihood
+4. timing TWO : 0.85 s per 5000-particle likelihood
+4. timing WPT {'mode2': 'CTT', 'wpt': 'BEDAX'}: 0.88 s per 5000-particle likelihood
+4. timing WPT {'mode2': 'CMH', 'wpt': 'BEDAX'}: 0.92 s per 5000-particle likelihood

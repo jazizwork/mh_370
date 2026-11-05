@@ -1,0 +1,190 @@
+{
+ "area_km2_raster": {
+  "deeptow_sss": 103922,
+  "auv_sss": 18168,
+  "gophoenix_sas": 14906,
+  "dhj_sas": 3337,
+  "union_all_sensors": 120671,
+  "deeptow_sss_wms_render": 104664,
+  "union_with_wms_deeptow": 121113
+ },
+ "deeptow_wfs_vector_area_km2_epsg6933": 103975,
+ "deeptow_wfs_vector_area_km2_geodesic": 103968,
+ "deeptow_wfs_attribute_area_km2": 130961,
+ "validation_wms_vs_wfs_deeptow_km2": {
+  "both": 103921,
+  "wms_only": 743,
+  "wfs_only": 1
+ },
+ "area_km2_unique_to_sensor": {
+  "deeptow_sss": 86611,
+  "auv_sss": 789,
+  "gophoenix_sas": 11805,
+  "dhj_sas": 2327
+ },
+ "validation_tilecache_z8_vs_union_km2": {
+  "tilecache_total": 120518,
+  "both": 119918,
+  "tilecache_only": 599,
+  "union_only": 752,
+  "note": "zoom-8 tiles have ~0.5 km pixels, so edges are inflated/deflated by ~1 tile pixel"
+ },
+ "components": 56,
+ "area_km2_main_component": 120665,
+ "area_km2_outlying_components": 5.25,
+ "area_km2_envelope_holes_filled": 120680,
+ "area_km2_interior_gaps": 14.49,
+ "interior_gap_count": 125,
+ "interior_gap_area_by_threshold_km2": {
+  ">=0.04": [
+   95,
+   13.3
+  ],
+  ">=0.1": [
+   19,
+   10.01
+  ],
+  ">=0.25": [
+   6,
+   7.79
+  ],
+  ">=1.0": [
+   1,
+   4.81
+  ]
+ },
+ "envelope_vector_area_km2": {
+  "unsimplified_epsg6933": 120729,
+  "unsimplified_geodesic": 120729,
+  "simplified_0.002deg_epsg6933": 120714,
+  "simplified_0.005deg_epsg6933": 120608,
+  "simplified_0.01deg_epsg6933": 120875,
+  "simplified_0.002deg_nvert": 659,
+  "simplified_0.005deg_nvert": 349,
+  "simplified_0.01deg_nvert": 232,
+  "simplified_0.002deg_hausdorff_km": 0.18,
+  "simplified_0.005deg_hausdorff_km": 0.449,
+  "simplified_0.01deg_hausdorff_km": 0.891
+ },
+ "union_vector_area_km2_epsg6933": 120720,
+ "per_sensor_vector_area_km2_epsg6933": {
+  "deeptow_sss": 103977,
+  "auv_sss": 18180,
+  "gophoenix_sas": 14906,
+  "dhj_sas": 3335
+ },
+ "arc_reference_check": [
+  {
+   "lat": -25.0,
+   "lon_ref": 101.84,
+   "lon_geo": 101.837,
+   "inside_envelope": false
+  },
+  {
+   "lat": -30.0,
+   "lon_ref": 98.13,
+   "lon_geo": 98.133,
+   "inside_envelope": false
+  },
+  {
+   "lat": -34.23,
+   "lon_ref": 93.74,
+   "lon_geo": 93.747,
+   "inside_envelope": true
+  },
+  {
+   "lat": -35.0,
+   "lon_ref": 92.77,
+   "lon_geo": 92.77,
+   "inside_envelope": true
+  },
+  {
+   "lat": -38.0,
+   "lon_ref": 88.18,
+   "lon_geo": 88.183,
+   "inside_envelope": true
+  }
+ ],
+ "arc_latitude_ranges_inside_envelope": [
+  [
+   -39.421,
+   -32.72
+  ]
+ ],
+ "ga_40kft_arc_vs_sea_level_arc": [
+  {
+   "lat": -33.0,
+   "lon_sea_level_arc": 95.178,
+   "lon_ga_40kft_arc": 95.374,
+   "perp_offset_km_SE": 13.4,
+   "perp_offset_nm_SE": 7.2
+  },
+  {
+   "lat": -34.0,
+   "lon_sea_level_arc": 94.026,
+   "lon_ga_40kft_arc": 94.233,
+   "perp_offset_km_SE": 13.5,
+   "perp_offset_nm_SE": 7.3
+  },
+  {
+   "lat": -35.0,
+   "lon_sea_level_arc": 92.77,
+   "lon_ga_40kft_arc": 92.986,
+   "perp_offset_km_SE": 13.4,
+   "perp_offset_nm_SE": 7.2
+  },
+  {
+   "lat": -36.0,
+   "lon_sea_level_arc": 91.394,
+   "lon_ga_40kft_arc": 91.622,
+   "perp_offset_km_SE": 13.4,
+   "perp_offset_nm_SE": 7.2
+  },
+  {
+   "lat": -37.0,
+   "lon_sea_level_arc": 89.875,
+   "lon_ga_40kft_arc": 90.121,
+   "perp_offset_km_SE": 13.5,
+   "perp_offset_nm_SE": 7.3
+  },
+  {
+   "lat": -38.0,
+   "lon_sea_level_arc": 88.183,
+   "lon_ga_40kft_arc": 88.447,
+   "perp_offset_km_SE": 13.4,
+   "perp_offset_nm_SE": 7.2
+  },
+  {
+   "lat": -39.0,
+   "lon_sea_level_arc": 86.273,
+   "lon_ga_40kft_arc": 86.562,
+   "perp_offset_km_SE": 13.3,
+   "perp_offset_nm_SE": 7.2
+  }
+ ],
+ "latitude_extent_envelope": [
+  -40.082,
+  -32.718
+ ],
+ "longitude_extent_envelope": [
+  85.116,
+  95.774
+ ],
+ "atsb_fig73_regions_area_km2": {
+  "red": 63114,
+  "orange": 16728,
+  "yellow": 12006,
+  "purple": 28832
+ },
+ "atsb_fig73_regions_weighted_check": {
+  "HC_pct": 97.42,
+  "LC_pct": 2.12,
+  "gap_pct": 0.45,
+  "atsb_combined": [
+   97.4,
+   2.1,
+   0.5
+  ]
+ },
+ "common_grid_any_area_km2": 120671
+}

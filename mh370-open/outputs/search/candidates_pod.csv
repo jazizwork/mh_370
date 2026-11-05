@@ -1,0 +1,8 @@
+candidate,lat,lon,note,n_from_arc_km,s_along_arc_km,pod,pod_low,pod_high,searched_by
+UGIB LEP (Ulich/Godfrey/Iannello/Banks 2020),-34.2342,93.7875,IG hotspot,3.0,3.0,0.961,0.841,0.988,ATSB_2014_17
+CSIRO drift 2017,-35.6,92.8,Griffin et al.,50.8,-166.0,0.92,0.8,0.98,OI_2018
+WSPR (Godfrey 2024),-29.128,99.934,,84.0,806.1,0.0,0.0,0.0,none
+Ulich & Iannello drift 2023 (34.0S on arc),-34.0,94.0259,lon = sea-level arc,-0.0,36.9,0.961,0.841,1.0,ATSB_2014_17
+Kadri 306 deg bearing x 7th arc,-25.7,101.4,acoustic; timing inconsistent,0.7,1201.5,0.5,0.15,0.85,OI_2018
+Stead 246.9 deg timing-consistent,-41.0,81.0,acoustic,-16.7,-1354.7,0.0,0.0,0.0,none
+Anderson Java acoustic event,-8.36,107.92,outside common grid,-0.5,3250.5,0.0,0.0,0.0,none

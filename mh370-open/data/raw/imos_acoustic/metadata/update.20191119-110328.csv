@@ -1,0 +1,6 @@
+curtin_id; deployment_name; time_deployment_start; time_deployment_end; site_code; logger_id; logger_position ; frequency; set_success; is_primary; data_volume; lat; lon; water_depth; receiver_depth; start_first_wet_sample; start_last_wet_sample; first_wet_sample; last_wet_sample; system_gain_file; hydrophone_serial_number; hydrophone_sensitivity; calibration_noise_level; comments
+3427;Tuncurry, NSW 2016;2015-11-21 11:00:01;2016-10-18 18:00:01;PATUN;E21; ;6;Failure;true;0;-32.2879;152.93988333;162;162; ; ; ; ;55DD2241.DAT;Massa 501;-196;-90;
+3428;Tuncurry, NSW 2016;2016-02-21 11:00:01;2017-02-08 23:15:01;PATUN;E25; ;6;OK;false;0;-32.30983333;152.93065;162;162; ; ; ; ;55DD5BAD.DAT;HTIU90 454035;-197.5;-90;
+3444;Perth Canyon, WA 2016-2017;2016-09-23 21:00:01;2017-08-26 16:15:01;PAPCA;E24; ;6;OK;true;0;-31.86278333;115.02901667;412;412; ; ; ; ;56720CC2.DAT;Massa 500;-196;-90;
+3501;Kangaroo Island, SA 2016-2017;2016-11-22 19:30:00;2017-11-05 02:45:01;PAKAI;E44; ;6;OK;false;114;-36.11705;135.89385;178;178; ; ; ; ;5A3CBF99.DAT;HiTech 454011;-198.1;-90;
+3505;Portland, VIC 2017;2017-01-25 20:51:01;2018-02-12 13:30:00;PAPOR;E47; ;6;OK;false;120;-38.53388333;141.23613333;159;159; ; ; ; ;56EA4BD1.DAT;HTIU90 454052;-197.5;-90;

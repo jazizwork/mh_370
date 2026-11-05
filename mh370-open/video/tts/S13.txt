@@ -1,0 +1,7 @@
+Now put the layers together, and you hit the uncomfortable part.
+
+About 86 per cent of the satellite-data probability sits on seabed that has already been searched, mostly by the 2014 to 2017 search, which reported detection rates above 95 per cent. If our satellite model were right, the chance that every search would have missed the plane is only about 6 to 17 per cent, depending on how much weight you give the debris drift.
+
+That makes the empty searches evidence that the model is wrong somewhere. So we gave the analysis a deliberately vague alternative: the plane could have ended anywhere along the arc between 20 and 42 degrees south. We started by giving that alternative only a one-in-ten chance of being the right picture, then let the failed searches and the debris drift update it. It rises to nearly one in two.
+
+In plain terms, after a quarter of a million square kilometres of empty seabed, the honest position is roughly fifty-fifty. Either the standard picture is right and something was missed, or something about the standard picture is wrong.

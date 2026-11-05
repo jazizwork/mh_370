@@ -1,0 +1,122 @@
+{
+ "label": "REAL INPUTS",
+ "flags": [
+  "acoustic_loglik.nc absent: acoustic layer not used"
+ ],
+ "created": "2026-11-05 18:17",
+ "inputs": {
+  "satcom": {
+   "path": "mh370-open/data/derived/satcom_posterior.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 17:45:03 2026"
+  },
+  "drift": {
+   "path": "mh370-open/data/derived/drift_loglik.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 17:53:10 2026"
+  },
+  "acoustic": {
+   "path": "mh370-open/data/derived/acoustic_loglik.nc",
+   "present": false,
+   "mtime": null
+  },
+  "pod": {
+   "path": "mh370-open/data/derived/search_pod.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 17:54:25 2026"
+  }
+ },
+ "satcom_scenarios": [
+  "p_uncontrolled",
+  "p_glide",
+  "p_dstg_kernel",
+  "p_arc0019",
+  "p",
+  "p_equal_modes",
+  "p_mode_LNAV",
+  "p_mode_CTT",
+  "p_mode_CMT",
+  "p_mode_CTH",
+  "p_mode_CMH",
+  "p_sens_bto29",
+  "p_sens_no1828bfo",
+  "p_sens_no1827bto",
+  "p_sens_bfo4p3",
+  "p_sens_bias25",
+  "p_sens_wind90",
+  "p_sens_wind110",
+  "p_sens_wideprior",
+  "p_sens_machdrift"
+ ],
+ "drift_variants": [
+  "loglik",
+  "loglik_drogued",
+  "loglik_no_negative",
+  "loglik_flaperon_only",
+  "loglik_leeway",
+  "loglik_flaperon_only_leeway",
+  "loglik_flaperon_only_leeway10",
+  "loglik_all_leeway",
+  "loglik_windage3",
+  "loglik_first_per_region",
+  "loglik_first_arrival",
+  "loglik_windows_x2",
+  "loglik_windows_godfrey",
+  "loglik_radius100",
+  "loglik_radius250",
+  "loglik_wa_lambda5",
+  "loglik_wa_lambda60",
+  "loglik_wa_12months",
+  "loglik_roy_official_date",
+  "loglik_no_roy",
+  "loglik_leeway_windows_x2",
+  "loglik_leeway_first_arrival",
+  "loglik_timescale_110",
+  "loglik_timescale_115",
+  "loglik_timescale_125",
+  "loglik_uncalibrated",
+  "loglik_leeway_uncalibrated",
+  "loglik_flaperon_only_uncalibrated",
+  "loglik_flaperon_only_leeway_uncalibrated",
+  "loglik_annual",
+  "loglik_bin05",
+  "loglik_T7"
+ ],
+ "weights": [
+  0.0,
+  0.5,
+  1.0
+ ],
+ "budgets": [
+  5000.0,
+  7500.0,
+  15000.0
+ ],
+ "pod_new": 0.9,
+ "headline": {
+  "satcom": "p",
+  "w": 0.5
+ },
+ "satcom_attrs": {
+  "title": "MH370 end-point probability implied by Inmarsat BTO/BFO + simple autopilot paths",
+  "workstream": "A (satcom)",
+  "variant": "baseline",
+  "method": "SMC over 5 autopilot modes (LNAV, CTT, CMT, CTH, CMH) at constant Mach/FL with ERA5 winds; mode weights from SMC evidence (equal mode priors); end-of-flight mixture p = 0.80*p_uncontrolled + 0.20*p_glide",
+  "mode_weights_evidence": "{\"LNAV\": 0.631, \"CTT\": 0.369, \"CMT\": 0.0, \"CTH\": 0.0, \"CMH\": 0.0}",
+  "note": "Each variable sums to 1 over the grid (mass outside the grid renormalised away; see outputs/satcom/summary.json). See outputs/satcom/README.md."
+ },
+ "drift_attrs": {
+  "title": "mh370-open workstream B: log-likelihood of the MH370 debris evidence vs origin",
+  "method": "Markov chain from NOAA GDP 6-hourly drifters; presence-in-find-region during arrival windows; WA non-detection. See outputs/drift/README.md",
+  "release_time": "2014-03-08T00:20Z",
+  "band_km": "300.0",
+  "wa_lambda": "20.0",
+  "eps_rel": "0.001",
+  "time_scale_speedcal": "1.2",
+  "item_likelihood_mode": "visit",
+  "region_radius_km": "150.0",
+  "computed_region": "cells within 300 km of the sea-level 7th arc; NaN elsewhere",
+  "sources": "GDP 6h doi:10.25921/7ntx-z961; NCEP/NCAR R1; Natural Earth; MH370 SIR 2018 Table 1.12A"
+ },
+ "runtime_s": 610
+}

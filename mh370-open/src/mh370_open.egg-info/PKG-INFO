@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: mh370-open
+Version: 0.1.0
+Summary: Independent, public-data-only reanalysis of MH370's end point
+Requires-Python: >=3.11

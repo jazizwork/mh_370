@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2014-03-08T01:13:09.790Z,2.3862,128.1896,63.36,4.1,mb,,171,1.802,0.15,us,usc000nnpm,2014-05-15T02:23:36.000Z,"75 km NNE of Tobelo, Indonesia",earthquake,,17.9,0.302,4,reviewed,us,us
+2014-03-07T23:52:18.600Z,-9.6744,108.4193,34.05,4.1,mb,,123,2.188,0.91,us,usc000nbj9,2014-05-15T02:23:35.000Z,"243 km SSW of Kroya, Indonesia",earthquake,,6.1,0.165,12,reviewed,us,us
+2014-03-07T22:50:07.140Z,-54.357,140.045,10.68,4.2,mb,,109,17.201,0.87,us,usc000nbj7,2014-05-15T02:23:34.000Z,"west of Macquarie Island",earthquake,,5.2,0.236,6,reviewed,us,us
+2014-03-07T21:23:22.680Z,-6.2815,147.8283,43.35,5.1,mb,,16,3.172,0.95,us,usc000n55v,2022-05-03T16:44:43.843Z,"30 km N of Finschhafen, Papua New Guinea",earthquake,,4.2,0.046,158,reviewed,us,us
+2014-03-07T20:36:06.410Z,-49.0178,123.3764,14.89,4.5,mb,,134,16.719,0.62,us,usc000nbj2,2014-05-15T02:23:32.000Z,"western Indian-Antarctic Ridge",earthquake,,5.1,0.243,5,reviewed,us,us
+2014-03-07T20:17:57.130Z,-6.0019,125.5838,555.08,4.7,mb,,44,3.95,1.01,us,usc000nbj1,2014-05-15T02:23:32.000Z,"280 km N of Metinaro, Timor Leste",earthquake,,9.5,0.09,39,reviewed,us,us
+2014-03-07T19:36:35.110Z,-5.6858,134.0275,33.33,4,mb,,163,3.27,1.38,us,usc000nbiz,2014-05-15T02:23:32.000Z,"141 km E of Tual, Indonesia",earthquake,,4,0.211,7,reviewed,us,us
+2014-03-07T18:55:12.040Z,3.0715,96.8734,10,2.7,ml,,262,2.081,1.89,us,usc000nb9b,2021-11-06T13:00:15.890Z,"85 km NE of Sinabang, Indonesia",earthquake,,2,0.128,8,reviewed,us,us

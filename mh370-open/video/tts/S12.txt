@@ -1,0 +1,9 @@
+Finding four. The whisper method has a physics problem.
+
+Whisper reports signal strength in steps of one decibel. For a plane to show up at all, its reflected signal has to shift a reading by about one decibel. We worked out how much radio energy a 777 can actually reflect at these frequencies and distances. The largest change it can plausibly make is about three hundredths of a decibel. Meanwhile, the same radio link naturally jumps by three and a half to five decibels from one reading to the next. We measured that ourselves in the public whisper database.
+
+We also checked what the network could actually see that night. After 7:06 in the morning, not one whisper signal path, from a transmitter to a receiver, crossed the southern part of the arc. The final hour of the flight wasn't covered at all.
+
+And the statistics are thin. The team's own published test of the method scores close to what you'd get by guessing, within its margin of error.
+
+The whisper team disagrees with these criticisms. The fair way to settle it is a blind test. Take hundreds of modern flights with known positions, hide which is which, and see whether the method can find them. All the data for that is public, and we've written out exactly how to run it.

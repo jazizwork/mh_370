@@ -1,0 +1,7 @@
+inputs loaded (0s); satellite vars ['p', 'p_v2']; broads ['broad_arc', 'broad_wide', 'broad_arc_lnavctt']
+  p w=0 done (12s)
+  p w=0.5 done (24s)
+  p_v2 w=0 done (35s)
+  p_v2 w=0.5 done (45s)
+done in 48s -> mh370-open/outputs/combine/selftest_SYNTHETIC/mix
+

@@ -1,0 +1,20 @@
+{
+ "ashton_t9_pred_diff_max_hz": 1.190677195919534,
+ "ashton_t9_pred_diff_rms_hz": 0.6943380059435609,
+ "atsb_table5_max_term_diff_hz": 2.2049684638450344,
+ "table4_vs_fig11_rms_hz": 0.2803972061724904,
+ "gate_bto_mean_res_us": -6.221751670053453,
+ "gate_bto_sd_us": 30.473742093966788,
+ "ground_bias_R": 153.70217883582376,
+ "ground_bias_T": 155.3050072948468,
+ "inflight_level_bias_R": 150.63256737619292,
+ "inflight_level_bias_T": 154.45116458118483,
+ "inflight_level_res_R_mean": -3.0696114596308277,
+ "inflight_level_res_T_mean": -0.8538427136619869,
+ "climb_1655_res_R_mean": 1.0036300315478819,
+ "climb_1655_res_T_mean": 2.7209807469511755,
+ "inflight_bto_mean_res_us": -1.154649817606523,
+ "inflight_bto_sd_us": 18.726870858652482,
+ "cal_bias_R": 153.4172158802261,
+ "cal_bias_T": 155.97509171064223
+}

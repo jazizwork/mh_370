@@ -1,0 +1,5 @@
+First, the question that started all this. Could you run the plane-sound trick in reverse, using microphones in known places to track an unknown plane?
+
+For M H three seventy, no. The trick works on propeller aircraft, which hum at a steady low pitch you can follow. M H three seventy was a Boeing 777 with jet engines, cruising at around 35,000 feet, where jet noise is mostly a broad roar. And because the air near the ground is much warmer than the air up there, sound coming down at a shallow angle bends back upwards, so it only reaches the ground in a narrow strip either side of the flight path. After 2:22 in the morning, the plane was over open ocean at night, with no microphones anywhere beneath it. And by the final satellite message, investigators believe both engines had already run out of fuel. There was no engine tone left to hear.
+
+The satellite frequency data is already the reverse-Doppler measurement, and it already exists. So instead of hunting for a new sensor, we went back to the evidence we have and rebuilt it from scratch.

@@ -1,0 +1,8 @@
+{
+ "F1 20-60 Hz burst onset": "01:32:56.48",
+ "F2 broadband impulsive onset": "01:33:04.48",
+ "F3 emergent LF onset (masked by F2)": "01:33:01.73",
+ "F3 reaches +15 dB after F2": "01:33:38.98",
+ "F3 energy centroid": "01:34:22.33",
+ "F3 emergent LF peak": "01:34:32.73"
+}

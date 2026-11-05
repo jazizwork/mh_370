@@ -1,0 +1,7 @@
+At 2:25, the plane's satellite terminal logged back on to an Inmarsat satellite over the Indian Ocean. For the next six hours, it answered automatic "are you there?" messages, roughly once an hour. Those messages carried no position. But each one recorded two numbers.
+
+The first is a timing value. It tells you how far the plane was from the satellite, which puts it somewhere on a ring on the Earth's surface. Seven messages, seven rings. The last one, at 8:19 in the morning, is the famous seventh arc.
+
+The second number is a frequency offset. It's a Doppler measurement: the same physics as the plane-sound trick, but applied to a radio signal instead of sound. It depends on how fast the plane was moving towards or away from the satellite. That is what told investigators the plane flew south, into the southern Indian Ocean, rather than north over Asia.
+
+So the satellite data had already done what we hoped the sound trick might do. It turned a Doppler shift into a track. Just a very blurry one.

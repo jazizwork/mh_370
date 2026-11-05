@@ -1,0 +1,12 @@
+[project]
+name = "mh370-open"
+version = "0.1.0"
+description = "Independent, public-data-only reanalysis of MH370's end point"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

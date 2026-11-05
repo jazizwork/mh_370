@@ -1,0 +1,11 @@
+This also helps explain why the past searches came up empty.
+
+The 2014 to 2017 search went to the latitudes the satellite data favours, and our analysis agrees with that choice. But it covered a band only a few dozen nautical miles wide around the arc. If the plane carried on further after its fuel ran out, it would lie just outside.
+
+The 2018 search went further north along the arc, again over a limited width. Our top area sits right along its outer edge.
+
+The 2025 search went to the independent hotspot near 34 degrees south. That spot depends on the plane descending at 2:40, which may or may not have happened.
+
+The sound candidates fail on timing or energy. And the whisper crash point has moved by around four degrees over the years as the method changed, which is what you'd expect if the signal is mostly noise.
+
+None of this means those teams were careless. Each search followed the best analysis of its time. What's changed is that, taken together, the empty searches have become evidence in their own right. And they point past the edges.

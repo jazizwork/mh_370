@@ -1,0 +1,4 @@
+54 main scenarios in 133s
+drift sensitivity done (138s)
+done in 146s -> mh370-open/outputs/combine/selftest_SYNTHETIC
+

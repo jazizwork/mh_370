@@ -1,0 +1,123 @@
+{
+ "label": "SYNTHETIC",
+ "flags": [],
+ "created": "2026-11-05 21:33",
+ "inputs": {
+  "satcom": {
+   "path": "mh370-open/data/derived/selftest_SYNTHETIC/satcom_posterior_v2_SYNTHETIC.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 21:32:48 2026"
+  },
+  "drift": {
+   "path": "mh370-open/data/derived/selftest_SYNTHETIC/drift_loglik_SYNTHETIC.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 21:30:20 2026"
+  },
+  "pod": {
+   "path": "mh370-open/data/derived/selftest_SYNTHETIC/search_pod_SYNTHETIC.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 21:30:20 2026"
+  },
+  "broad": {
+   "path": "mh370-open/data/derived/combine_broad_components.nc",
+   "present": true,
+   "mtime": "Thu Nov  5 21:25:41 2026"
+  },
+  "old_blocks": {
+   "path": "mh370-open/outputs/combine/selftest_SYNTHETIC/ranked_blocks_all.csv",
+   "present": true,
+   "mtime": "Thu Nov  5 21:32:40 2026"
+  }
+ },
+ "sat_vars": [
+  "p",
+  "p_v2"
+ ],
+ "sat_vars_available": [
+  "p",
+  "p_v2"
+ ],
+ "broads": [
+  "broad_arc",
+  "broad_wide",
+  "broad_arc_lnavctt"
+ ],
+ "broad_build": {
+  "lat_range": [
+   -42.0,
+   -20.0
+  ],
+  "wide_half_km": 150.0,
+  "n_draws": 8000000,
+  "seed": 2026,
+  "start_geometry": {
+   "source": "satcom SMC end states (baseline), equal weight per mode",
+   "modes": [
+    "LNAV",
+    "CTT",
+    "CMT",
+    "CTH",
+    "CMH"
+   ],
+   "n_per_mode": 20000,
+   "n0_km_5_50_95": [
+    5.3,
+    20.0,
+    42.9
+   ],
+   "theta_deg_5_50_95": [
+    29.3,
+    40.1,
+    43.9
+   ]
+  },
+  "start_geometry_lnavctt": {
+   "source": "satcom SMC end states (baseline), equal weight per mode",
+   "modes": [
+    "LNAV",
+    "CTT"
+   ],
+   "n_per_mode": 20000,
+   "n0_km_5_50_95": [
+    2.1,
+    13.8,
+    25.4
+   ],
+   "theta_deg_5_50_95": [
+    42.0,
+    43.2,
+    44.1
+   ]
+  },
+  "mass_inside_grid_before_renorm": {
+   "unc": 0.999982375,
+   "glide": 0.997353125,
+   "unc_lnavctt": 0.999970625,
+   "glide_lnavctt": 0.996471125,
+   "wide": 0.999393
+  },
+  "eof": {
+   "w_glide": 0.2,
+   "unc_along_nm": 5.0,
+   "unc_sigma_nm": 7.0,
+   "glide_max_nm": 120.0,
+   "glide_dir_sd": 15.0,
+   "smooth_cells": 1.0
+  }
+ },
+ "eps": [
+  0.1,
+  0.3
+ ],
+ "weights": [
+  0.0,
+  0.5
+ ],
+ "budgets": [
+  7500.0
+ ],
+ "pod_new": 0.9,
+ "recommended": "sat=p|broad=broad_arc|eps=0.1|w=0.5|pod=best",
+ "reference": "sat=p|broad=none|eps=0|w=0.5|pod=best",
+ "runtime_s": 45
+}

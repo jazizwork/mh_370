@@ -1,0 +1,9 @@
+Finding two. The debris doesn't really disagree with the satellite data. The models did.
+
+We built a drift model from more than three million five-day movements of real ocean drifters that had lost their underwater sails, which makes them ride the surface the way debris does. When we tested it against drifters it had never seen, we found a problem. Models built this way move debris about 20 per cent too slowly. That bias pushes the predicted starting point north, and it explains why several published studies ended up between 25 and 30 degrees south.
+
+Correct for the bias, and the debris points to roughly 31 to 35 degrees south, peaking near 33.4.
+
+Then there's the flaperon. In sea trials, C-S-I-R-O scientists found that a real flaperon drifts faster than other debris, and about 20 degrees to the left of the wind. Treat it as generic debris, and it points to about 30 degrees south. Use its measured behaviour instead, and it points to about 38. That's right where the satellite data is.
+
+So the north–south split in the drift studies comes mostly from two modelling choices, not from the debris itself.

@@ -1,0 +1,9 @@
+curtin_id; deployment_name; time_deployment_start; time_deployment_end; site_code; logger_id; logger_position ; frequency; set_success; is_primary; data_volume; lat; lon; water_depth; receiver_depth; start_first_wet_sample; start_last_wet_sample; first_wet_sample; last_wet_sample; system_gain_file; hydrophone_serial_number; hydrophone_sensitivity; calibration_noise_level; comments
+3126;Tuncurry, NSW 2012-2013;2012-06-05 14:15:01;2013-04-30 12:00:00;PATUN;E12;;6;OK;;107;-32.31166667;152.94196667;174;174; ; ; ; ;5393DC87.DAT;HTIU90 454023;-197.9;-90;
+3127;Tuncurry, NSW 2012-2013;2012-06-05 14:15:01;2013-05-27 16:00:01;PATUN;E26;;6;OK;;118;-32.32946667;152.90156667;141;141; ; ; ; ;5393E4D4.DAT;HTIU90 454036;-196.9;-90;
+3128;Tuncurry, NSW 2012-2013;2012-06-05 14:15:00;2013-05-30 09:15:01;PATUN;E27;;6;OK;true;120;-32.28993333;152.91020000;136;136;2012-06-05 14:15:00;2013-05-30 09:15:01;1;34249;4F6EF579.DAT;HTIU90 454037;-197.0;-90;
+3129;Tuncurry, NSW 2012-2013;2012-06-05 14:15:01;2013-06-01 23:45:00;PATUN;E34;;6;OK;;121;-32.30930000;152.92491667;156;156; ; ; ; ;5393D202.DAT;HTIU90 454049;-197.4;-90;
+3130;Tuncurry, NSW 2012-2013;2012-06-07 14:05:25;2013-04-29 14:05:25;PATUN;E12;;22;sub-channel Failure;;2.7;-32.31166667;152.94196667;174;174; ; ; ; ;not set yet;HTIU90 454023;-197.9;-90;
+3131;Tuncurry, NSW 2012-2013;2012-06-08 14:05:24;2013-05-26 14:05:24;PATUN;E26;;22;OK;;2.7;-32.32946667;152.90156667;141;141; ; ; ; ;not set yet;HTIU90 454036;-196.9;-90;
+3132;Tuncurry, NSW 2012-2013;2012-06-06 14:05:24;2013-05-28 14:05:31;PATUN;E27;;22;OK;;2.7;-32.28993333;152.91020000;136;136; ; ; ; ;not set yet;HTIU90 454037;-197.0;-90;
+3133;Tuncurry, NSW 2012-2013;2012-06-06 14:05:23;2013-06-01 14:05:24;PATUN;E34;;22;OK;;12.7;-32.30930000;152.92491667;156;156; ; ; ; ;not set yet;HTIU90 454049;-197.4;-90;

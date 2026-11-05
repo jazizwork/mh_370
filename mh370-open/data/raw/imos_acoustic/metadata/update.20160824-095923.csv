@@ -1,0 +1,4 @@
+curtin_id;deployment_name;time_deployment_start;time_deployment_end;site_code;logger_id;logger_position;frequency;set_success;is_primary;data_volume;lat;lon;water_depth;receiver_depth;start_first_wet_sample;start_last_wet_sample;first_wet_sample;last_wet_sample;system_gain_file;hydrophone_serial_number;hydrophone_sensitivity;calibration_noise_level;comments
+3154;Perth Canyon, WA 2012-2013;2012-08-10 04:15:00;2013-06-14 09:30:01;PAPCA;E09;;6;OK;true;0;-31.8842166667;115.01355;;;2012-08-10 04:15:00;2013-06-14 02:00:01;1;29854;Cal3001-2.dat 501E9BF5.DAT;HTI 454021;-197.8;-90;
+3073;Portland, VIC 2012;2012-02-15 04:15:01;2012-11-06 02:05:01;PAPOR;E22;;6;OK;true;103;-38.54265;141.21745;;;2012-02-15 04:15:01;2012-11-05 22:05:01;1;25202;Cal2903-5.dat 4EC08B2A.DAT;Massa 501;-196;-90;
+3128;Tuncurry, NSW 2012-2013;2012-06-05 04:15:00;;PATUN;E27;;6;;true;;;;;;;;;;4FBB21F1.DAT;;-197;-90;time_deployment_start guessed from first recording in 3126

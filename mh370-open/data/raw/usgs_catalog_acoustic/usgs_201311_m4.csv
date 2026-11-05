@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-11-28T01:04:25.950Z,-25.2022,70.4346,8.45,4.7,mb,,124,14.096,0.35,us,usb000la5i,2014-02-12T01:08:35.000Z,"Mid-Indian Ridge",earthquake,,5.8,0.317,,reviewed,us,us
+2013-11-28T03:58:40.900Z,-9.5133,120.3819,86.39,4.5,mb,,141,11.99,0.63,us,usb000l7kt,2014-02-12T01:08:35.000Z,"20 km NE of Waingapu, Indonesia",earthquake,,12,0.156,,reviewed,us,us
+2013-11-28T07:34:25.560Z,-25.6373,70.0139,10,4.6,mb,,193,59.083,0.63,us,usb000la5p,2014-02-12T01:08:35.000Z,"Mid-Indian Ridge",earthquake,,2,0.244,,reviewed,us,us
+2013-11-28T15:42:09.740Z,-25.453,69.8773,16.88,4.5,mb,,91,40.797,0.81,us,usb000la5z,2014-02-12T01:08:36.000Z,"Indian Ocean Triple Junction",earthquake,,4.6,0.151,,reviewed,us,us
+2013-11-28T15:42:27.080Z,-25.3391,69.8548,14.77,4.8,mb,,66,21.862,0.95,us,usb000la6j,2014-02-12T01:08:36.000Z,"Indian Ocean Triple Junction",earthquake,,4.2,0.085,,reviewed,us,us
+2013-11-28T15:44:04.650Z,-25.3169,69.9043,15.64,5.1,mb,,66,13.658,0.7,us,usb000l7qr,2025-12-22T16:45:06.970Z,"Indian Ocean Triple Junction",earthquake,,3.9,0.064,,reviewed,us,us
+2013-11-28T18:13:55.340Z,-9.2487,113.332,55.21,4.4,mb,,159,1.12,0.28,us,usb000la62,2014-02-12T01:08:36.000Z,"106 km S of Kencong, Indonesia",earthquake,,11.5,0.241,,reviewed,us,us
+2013-11-28T19:40:48.990Z,-25.1734,70.1268,10,4.5,mb,,82,22.263,0.89,us,usb000la65,2014-02-12T01:08:36.000Z,"Mid-Indian Ridge",earthquake,,1.9,0.191,,reviewed,us,us
+2013-11-29T03:28:39.110Z,-8.867,124.1031,85.58,4.2,mb,,117,0.897,1.09,us,usb000l7v2,2014-02-12T01:08:36.000Z,"48 km NW of Pante Makasar, Timor Leste",earthquake,,5,0.263,,reviewed,us,us

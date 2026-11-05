@@ -1,0 +1,39 @@
+{
+ "image": "data/raw/oi2018_search/figures_extracted/OSU17_p3_x41_663x696.png",
+ "crs": "EPSG:32747",
+ "search": 5,
+ "cross_arm": 3,
+ "crosses": [
+  [
+   99,
+   -27,
+   101,
+   235
+  ],
+  [
+   100,
+   -27,
+   304,
+   236
+  ],
+  [
+   99,
+   -28,
+   101,
+   461
+  ],
+  [
+   100,
+   -28,
+   303,
+   462
+  ],
+  [
+   101,
+   -28,
+   503,
+   465
+  ]
+ ],
+ "out": "data/raw/oi2018_search/digitisation/site4_OSU17_2018-05-22_check_georef_polys.json"
+}
