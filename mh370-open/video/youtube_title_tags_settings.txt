@@ -1,0 +1,19 @@
+TITLE (57 characters)
+I Asked Claude to Help Find MH370 (Using Only Public Data)
+
+Alternatives
+- I Asked Claude to Help Find MH370. Here's Where the Evidence Points
+- I Asked Claude to Help Find MH370: Why 250,000 km² of Searching Came Up Empty
+- I Asked an AI to Help Find MH370
+
+TAGS (paste as one comma-separated line, about 420 characters)
+MH370, Malaysia Airlines 370, MH370 search, MH370 2026, Ocean Infinity, 7th arc, Inmarsat, satellite data, Doppler, flaperon, debris drift, WSPR, hydrophone, OSINT, open data, data analysis, aviation mystery, missing plane, Indian Ocean, Claude, Anthropic, Claude Code, AI research, colsto
+
+SETTINGS
+Category: Science & Technology
+Video language and caption language: English
+Captions: upload subtitles_en.srt (Subtitles > Add > Upload file > With timing)
+Audience: No, it's not made for kids
+Paid promotion: No (unless you have a sponsor)
+Licence: Standard YouTube Licence
+Chapters: already in the description (the first chapter starts at 0:00)

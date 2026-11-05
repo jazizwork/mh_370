@@ -12,7 +12,7 @@ Short answer: no. A cruising Boeing 777 over open ocean, at night, with no micro
 
 This is an independent analysis, not an official one. It does not find MH370. It turns "somewhere on the 7th arc" into a few specific boxes with coordinates, and says honestly how little of the remaining probability any single one holds.
 
-Code, data sources and full reports: [LINK TO CODE]
+Code, data sources and full reports: https://github.com/jazizwork/mh_370
 
 ## Chapters
 <!-- chapters:start -->
@@ -84,7 +84,7 @@ Area 1 lies near the crash site proposed using WSPR (about 27 km away), but not 
 - **Published work used or compared:** Ashton et al. (2015), *J. Navigation* 68:1–22 (open access, CC BY); Davey et al., *Bayesian Methods in the Search for MH370* (DSTG, Springer 2016, open access, CC BY-NC 4.0; Fig. 10.3 digitised for comparison — non-commercial licence, check before monetising); Kadri (2024), *Scientific Reports* (CC BY 4.0); Griffin, Oke & Jones, CSIRO drift reports (2016–17); Ulich & Iannello (2023); Godfrey (2021, 2024); Miron et al. (2019); Nesterov (2018); Iannello, Ulich, Godfrey & Banks (UGIB, 2020); Malaysia ICAO Annex 13 Safety Investigation Report (2018).
 - **Inspiration:** colsto's November 2026 video on aircraft-Doppler audio geolocation.
 
-Code, data sources and full reports: [LINK TO CODE]
+Code, data sources and full reports: https://github.com/jazizwork/mh_370
 
 If you can show any of this is wrong, please do: open an issue or leave a comment with the evidence.
 

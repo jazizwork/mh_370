@@ -67,8 +67,8 @@ SCENE_WEIGHTS = {"S01": [0.3, 0.24, 0.46], "S03": [[0, 1], [2, 3]], "S04": [0.62
 CAPTION_MAX = 8.0      # s, longest time a lower-third stays up
 # Narration paragraph (0-based) during which each ONSCREEN caption is shown, in caption order. Captions
 # sharing a paragraph split its time. Scenes not listed: captions spread evenly across the scene.
-CAPTION_PARAS = {"S01": [0, 1], "S02": [0, 1, 2], "S03": [1, 2, 1], "S04": [1, 2, 3], "S05": [0, 0, 0],
-                 "S06": [1, 2], "S07": [1, 1, 1], "S08": [1, 2, 3, 4], "S09": [2, 2, 3, 3], "S10": [1, 2, 3],
+CAPTION_PARAS = {"S01": [0, 1, 2], "S02": [0, 1, 2], "S03": [1, 2, 1], "S04": [1, 2, 3], "S05": [0, 0, 0],
+                 "S06": [1, 2], "S07": [1, 1, 1], "S08": [0, 1, 2, 3, 4], "S09": [2, 2, 3, 3], "S10": [1, 2, 3],
                  "S11": [1, 2, 2, 4], "S12": [1, 1, 1, 2], "S13": [1, 1, 2], "S14": [0, 3, 4, 5, 6],
                  "S15": [1, 2, 3, 5], "S16": [0, 0, 0, 0, 0], "S17": [2, 3]}
 

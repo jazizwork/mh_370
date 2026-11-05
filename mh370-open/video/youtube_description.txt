@@ -1,0 +1,54 @@
+I asked Claude, Anthropic's AI, to help me answer one question: could the new "plane sound reveals your location" trick help find MH370? It can't. But it led to a full reanalysis of where the plane went, built only from data anyone can download, and an honest look at why a quarter of a million square kilometres of searching has come up empty.
+
+This is an independent analysis, not an official one. It does not find MH370.
+
+Code, data sources, full reports and an interactive map: https://github.com/jazizwork/mh_370
+The video that started it (colsto): https://www.youtube.com/watch?v=UytYrhYLOKI
+
+CHAPTERS
+0:00 Can a plane's sound find MH370?
+0:45 What happened on 8 March 2014
+1:43 The satellite arcs
+2:50 Where people have looked
+4:22 The debris
+5:05 The other leads
+6:11 Can you reverse the sound trick?
+7:21 What we did differently
+8:53 Finding 1: the satellite data
+10:25 Finding 2: why the drift studies disagreed
+11:41 Finding 3: the sound candidates
+12:58 Finding 4: WSPR's physics problem
+14:18 Is the model wrong somewhere?
+15:27 Where the probability is now
+17:50 How this explains the history
+19:00 What could prove us wrong
+19:45 Close
+
+KEY FINDINGS
+• Satellite data: median end point 38.2°S on the 7th arc (90%: 36.5–39.5°S), in line with the Australian defence scientists' analysis. On its own it can't separate 38°S from the 34.2°S hotspot searched in 2025–26. That route fits only if the plane was descending during the 02:40 call; flown level, the frequency during that call is off by 39 Hz.
+• Debris drift: models built from ocean drifters move debris about 20% too slowly, which pushed several studies north. Corrected, the debris points to about 31–35°S. The flaperon's measured drift points to about 38°S.
+• Sound: no underwater-microphone or seismic candidate holds up on open data. The "Java event" is a natural ~M4.1 earthquake.
+• WSPR: a 777 can change a WSPR reading by about 0.03 dB. Readings come in 1 dB steps and naturally jump 3.5–5 dB. A public blind test would settle it.
+• The empty searches are evidence: 86% of the satellite probability is on seabed already searched. Counting that, a deliberately vague "model is wrong somewhere" alternative rises from 1 in 10 to nearly 1 in 2.
+
+WHERE THE PROBABILITY IS NOW (each about 7,500 km²)
+1 · 30.46°S 98.41°E · 42–62 km beyond the arc, along the 2018 search edge · ~8.5%
+2 · 38.75°S 89.02°E · 90–130 km beyond the arc, glide zone · ~5%
+3 · 32.36°S 96.89°E · 62–82 km beyond the arc · ~4%
+Satellite-only pick · 39.94°S 84.82°E · on the arc, just south of the 2014–17 search
+No single area holds more than about 1 chance in 10, and small changes to the assumptions can swap areas 1 and 2. Area 1 is near the WSPR crash claim but not on it; this analysis doesn't use WSPR.
+
+CAVEATS
+Independent and not peer-reviewed. How much to doubt the satellite model is a judgement call. There is no public fuel-burn model; the 2025–26 search footprint is reconstructed from ship tracking; how thoroughly past searches covered their ground is partly estimated. Full caveats are in the repo.
+
+HOW THIS WAS MADE
+Research, code and analysis: Claude (Anthropic), in Claude Code, directed by me. Results were checked against published numbers wherever possible.
+Voice-over: AI voice generated with ElevenLabs.
+Charts and maps: generated from the project's own data. Two diagrams are marked as illustrations.
+
+DATA AND CREDITS (full list with licences in the repo README)
+Inmarsat SU log via Paul Sladen's public-domain transcription · ATSB (CC BY 3.0 AU) · Geoscience Australia / AusSeabed (CC BY 4.0) · Government of Malaysia search updates · ERA5: contains modified Copernicus Climate Change Service information 2026 · NOAA Global Drifter Program · NCEP/NCAR Reanalysis (NOAA PSL) · HYCOM · IMOS / AODN (CC BY 4.0; IMOS is enabled by NCRIS) · EarthScope, GEOFON, RESIF and AusPass seismic data · USGS · NOAA ETOPO 2022 · Natural Earth · wspr.live · DSTG, Bayesian Methods in the Search for MH370 (CC BY-NC 4.0) · Ashton et al. 2015 · Kadri 2024 · CSIRO drift reports · Iannello, Ulich, Godfrey & Banks 2020 · colsto.
+
+If you can show any of this is wrong, please do. Open an issue on GitHub or leave a comment with the evidence.
+
+In memory of the 239 people on board MH370.

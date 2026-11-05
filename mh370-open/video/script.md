@@ -25,7 +25,7 @@ All times in the narration are Malaysian local time (UTC+8) unless stated.
 
 ## S01 | Cold open
 VISUALS: V00_colsto_ref, V02_doppler_concept, V01_title
-ONSCREEN: "Early November 2026: a YouTuber shows plane noise can geolocate a video" | "Could the same idea find MH370?"
+ONSCREEN: "Early November 2026: a YouTuber shows plane noise can geolocate a video" | "Could the same idea find MH370?" | "I asked Claude, Anthropic's AI, to help me find out"
 NARRATION:
 Earlier this month, a YouTuber called colsto showed something unsettling. A faint propeller plane, droning in the background of a video, can be enough to work out where that video was filmed. As the plane passes, the pitch of its engine bends, from high to low. Match that bend against public flight-tracking data, and you can pin the camera down, sometimes to within a hundred metres.
 
@@ -103,7 +103,7 @@ The satellite frequency data is already the reverse-Doppler measurement, and it 
 
 ## S08 | What we did differently
 VISUALS: V11_approach_diagram
-ONSCREEN: "Public data only" | "Validated against published numbers" | "Satellite + drift + everything already searched" | "Including: what if our model is wrong?"
+ONSCREEN: "Research, code and analysis built with Claude" | "Public data only" | "Validated against published numbers" | "Satellite + drift + everything already searched" | "Including: what if our model is wrong?"
 NARRATION:
 Here's what's different about this analysis.
 
